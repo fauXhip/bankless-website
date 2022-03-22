@@ -14,7 +14,7 @@ const NAV_LINKS = [
   },
   {
     name: 'Work With Us',
-    href: '#',
+    href: '/work-with-us',
   },
   {
     name: 'Read',
